@@ -1,0 +1,1 @@
+INSERT INTO temp_table VALUES (1);
